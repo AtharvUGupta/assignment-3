@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<math.h>
+
 
 int main(){
     int num;
@@ -8,7 +8,7 @@ int main(){
     if(num<3){
         printf("Not possible");
     }
-    int sqnum=pow(num,2);
+    int sqnum=num*num;
     if(sqnum<=100){
         int c=sqnum%10;
         int d=(sqnum/10)%10;
