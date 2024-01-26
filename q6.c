@@ -5,6 +5,8 @@ int main(){
     int num;
     printf("Enter the value of number: \n");
     scanf("%d",&num);
+    if(num==1){
+        printf("It is a Kapereker number");
     if(num<3){
         printf("Not possible");
     }
