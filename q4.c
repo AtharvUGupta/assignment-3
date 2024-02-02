@@ -15,5 +15,5 @@ int main(){
         printf("Non collinear");
     }
     
-    
+     return 0;
 }
