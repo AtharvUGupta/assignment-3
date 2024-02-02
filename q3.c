@@ -13,4 +13,6 @@ int main(){
    else{
     printf("It is not a triangle");
    }
+
+    return 0;
 }
