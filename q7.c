@@ -44,4 +44,7 @@ int main(){
     else{
         printf("Grade is = F");
     }
+
+     return 0;
+    
 }
