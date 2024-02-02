@@ -54,6 +54,6 @@ int main(){
             printf("It is not a Kaperakers number");
         }
     }
-    
+     return 0;
 
 }
